@@ -1,0 +1,3 @@
+We have a lot to do anyway
+To display the content of the /etc/passwd file, you can use the cat command in Linux, as described below. To filter the output of the pervious cat /etc/passwd command by specifying a search pattern, such as a username, you can use the grep command command in Linux, as shown below.
+Now learn the other functions by yourself
