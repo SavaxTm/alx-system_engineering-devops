@@ -1,0 +1,7 @@
+#!/bin/bash
+getBEST(){
+	BEST=School #local variable
+	echo "$BEST -inside function"
+}
+echo "$BEST - outside function"
+getBEST
