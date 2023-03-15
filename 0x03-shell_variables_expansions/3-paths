@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $(echo $PATH |tr -c -d '/' |wc -c )-1 ))
+echo $(( $(echo PATH=home/root/bin::::/home:/usr/games:::::/home/meH |tr -c -d '/' |wc -c )-1 ))
