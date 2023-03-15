@@ -1,2 +1,2 @@
 #!/bin/bash
-testvar="BEST" BEST=School #local variable
+BEST=School #local variable
