@@ -1,0 +1,2 @@
+#!/bin/bash
+echo `LOVE=3, BREATH=4, BREATH,LOVE`
