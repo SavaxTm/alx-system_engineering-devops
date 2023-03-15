@@ -1,2 +1,2 @@
 #!/bin/bash
-$((POWER/DIVIDE))
+POWER=12/DIVIDE=6
