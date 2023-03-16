@@ -1,2 +1,2 @@
 #!/bin/bash
-i=1 if -r read "$(ls -1)" "(i++ %2)"
+perl -ne 'print if($.%2)' $(ls -1)
